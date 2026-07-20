@@ -1,3 +1,5 @@
+https://game-behavior-risk-classifier-3re345bdemhmtpgevvntnx.streamlit.app/
+
 # 🎮 Gaming Behavioral & Risk Classifier
 
 An interactive Machine Learning web application built using **Streamlit** and **Scikit-Learn**. This app leverages a trained **Random Forest Classifier** to analyze player demographics, psychological indicators, lifestyle habits, and in-game behavior to predict player classifications and risk profiles.
